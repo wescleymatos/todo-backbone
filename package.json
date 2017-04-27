@@ -1,0 +1,27 @@
+{
+  "name": "todo-backbone",
+  "version": "1.0.0",
+  "description": "Implementação ToDo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wescleymatos/todo-backbone.git"
+  },
+  "keywords": [
+    "js",
+    "backbone",
+    "todo"
+  ],
+  "author": "Wescley Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wescleymatos/todo-backbone/issues"
+  },
+  "homepage": "https://github.com/wescleymatos/todo-backbone#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}

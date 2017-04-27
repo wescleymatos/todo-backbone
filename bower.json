@@ -1,0 +1,31 @@
+{
+  "name": "todo-backbone",
+  "description": "Implementação ToDo App",
+  "main": "index.js",
+  "authors": [
+    "Wescley Matos"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "js",
+    "backbone",
+    "todo"
+  ],
+  "homepage": "https://github.com/wescleymatos/todo-backbone",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "underscore": "^1.8.3",
+    "backbone": "^1.3.3",
+    "handlebars": "^4.0.5"
+  },
+  "devDependencies": {
+    "qunit": "^2.3.2"
+  }
+}
